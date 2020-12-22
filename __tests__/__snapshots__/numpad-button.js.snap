@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NumpadButton NumpadButton render 1`] = `
+<div
+  className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+  onMouseDown={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "color": "#444444",
+    }
+  }
+/>
+`;

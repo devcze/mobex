@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencySwap CurrencySwap render 1`] = `
+<div
+  className="currency-swap__Switcher-sc-1tmmjvk-0 iltxXE"
+>
+  ↑↓
+</div>
+`;

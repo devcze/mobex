@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Numpad Numpad render 1`] = `
+<div
+  className="numpad__Numpad-i65ovq-0 dWifEs"
+>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    1
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    2
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    3
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    4
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    5
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    6
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    7
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    8
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    9
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    .
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    0
+  </div>
+  <div
+    className="numpad-button__NumpadButton-sc-1n447cv-0 fATyam"
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    style={
+      Object {
+        "backgroundColor": "white",
+        "color": "#444444",
+      }
+    }
+  >
+    ↤
+  </div>
+</div>
+`;
